@@ -1,0 +1,18 @@
+# What is GitHub?
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+# Install git
+
+`sudo apt-get update; sudo apt-get install git`
+
+# Create github account
+
+SignUp account on `github.com`.
+
+# Create repository
+
+To create a new repository
+
+- In the upper right corner, next to your avatar or identicon, click  and then `select New repository`.
+- Name your repository `hello-world`.
+- Write a short description.
